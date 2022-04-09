@@ -13,7 +13,7 @@
     "@react-native-community/masked-view": "^0.1.10",
     "axios": "^0.19.2",
     "color": "^3.1.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.27",
     "number-format.js": "^2.0.9",
     "react": "16.11.0",
